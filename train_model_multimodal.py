@@ -207,7 +207,7 @@ if __name__ == '__main__':
 
     elif params_dataset['task'] == 'sentiment_binary':
         net = SentBiConvNet(device = device, **params_model)
-        loss_function = nn.CrossEntropyLoss(weight=torch.FloatTensor([16576, 6683]), reduction='mean')
+        loss_function = nn.CrossEntropyLoss(weight=torch.FloatTensor([16576/23259, 6683/23259]), reduction='mean')
         # 11476+5100 positive + neutral | 6683 negative
 
     elif params_dataset['task'] == 'emotion':
