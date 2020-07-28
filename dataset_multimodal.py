@@ -16,7 +16,7 @@ class Dataset(torch.utils.data.Dataset):
         'Initialization'
         self.labels = labels
         if tiny:
-            self.list_IDs = list_IDs[:100]
+            self.list_IDs = list_IDs[:1000]
         else:
             self.list_IDs = list_IDs
         self.features = features
