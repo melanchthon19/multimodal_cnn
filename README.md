@@ -1,5 +1,5 @@
 # multimodal_cnn
-Convolutional Neural Network for Sentiment Analysis and Emotion Prediction on CMU-MOSEI dataset.
+Convolutional Neural Network for Sentiment Analysis and Emotion Recognition on CMU-MOSEI dataset.
 
 Download the repo.
 Download the data (h5 files) from here https://drive.google.com/file/d/1NHYYeNDV9Fk_WZ-XzhWYQguIGbxM3JpD/view?usp=sharing.
