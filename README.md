@@ -10,7 +10,7 @@ Ready to go.
 
 Files:
 
-parameters_multimodal.py --> parameters of the dataset and model
+parameters_multimodal.py --> parameters of the dataset and model, and task ('sentiment', 'sentiment_binary' or 'emotion').
 
 dataset_multimodal.py --> DataLoader class to load h5 files
 
