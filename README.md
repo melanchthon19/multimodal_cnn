@@ -3,7 +3,7 @@ Convolutional Neural Network for Sentiment Analysis and Emotion Prediction on CM
 
 Download the repo.
 Download the data (h5 files) from here https://drive.google.com/file/d/1NHYYeNDV9Fk_WZ-XzhWYQguIGbxM3JpD/view?usp=sharing.
-Unzip data_h5.
+Unzip data_h5 (h5 files should be in 'data_h5' folder.
 Ready to go.
 
 ./train_model_multimodal.py
