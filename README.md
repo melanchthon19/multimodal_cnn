@@ -9,9 +9,9 @@ Ready to go.
 ./train_model_multimodal.py
 
 Files:
-parameters_multimodal.py --> parameters of the dataset and model
-dataset_multimodal.py --> DataLoader class to load h5 files
+parameters_multimodal.py --> parameters of the dataset and model.
+dataset_multimodal.py --> DataLoader class to load h5 files.
 convnet_multimodal.py --> CNN architectures: 
-* SentConvNet for sentiment (regression) prediction
-* EmoConvNet for emotion recognition
-* SentBiConvNet for sentiment (binary) prediction
+* SentConvNet for sentiment (regression) prediction.
+* EmoConvNet for emotion recognition.
+* SentBiConvNet for sentiment (binary) prediction.
