@@ -17,4 +17,4 @@ dataset_multimodal.py --> DataLoader class to load h5 files
 convnet_multimodal.py --> CNN architectures: 
 * SentConvNet for sentiment (regression) prediction
 * EmoConvNet for emotion recognition
-* SentBiConvNet for sentiment (binary) prediction
+* SentBiConvNet for sentiment (binary) classification
