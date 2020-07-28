@@ -9,6 +9,7 @@ Ready to go.
 ./train_model_multimodal.py
 
 Files:
+
 parameters_multimodal.py --> parameters of the dataset and model
 
 dataset_multimodal.py --> DataLoader class to load h5 files
