@@ -7,7 +7,7 @@ Ready to go.
 
 Specify hyperparameters in `parameters_multimodal.py` and run `./train_model_multimodal.py`
 
-##Files:
+## Files
 
 parameters_multimodal.py --> parameters of the dataset and model, and task ('sentiment', 'sentiment_binary' or 'emotion').
 
