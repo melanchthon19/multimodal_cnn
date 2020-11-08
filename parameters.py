@@ -1,4 +1,4 @@
-import selected_features_correlation as featcor
+#import selected_features_correlation as featcor
 
 # FEATURES COLLAPSED
 #    BASELINE           |   SELECTED BY CORRELATION    |    LOW-LEVEL DESCRIPTORS
